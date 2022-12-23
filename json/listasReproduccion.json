@@ -1,0 +1,67 @@
+{
+    "listasReproduccion":[
+        {
+            "id":"1",
+            "foto": "img/ballena.jpg",
+            "titulo":"Car best hits",
+            "genero":"Rock, Pop, Rap",
+            "autor":"Natalia"
+        },
+        {
+            "id":2,
+            "foto": "http://127.0.0.1:5500/img/alienssss.jpg",
+            "titulo":"All rock",
+            "genero":"Rock, Pop, Rap",
+            "autor":"Saav"
+        },
+        {
+            "id":3,
+            "foto":"img/1 Mundo cubos.jpg",
+            "titulo":"Canciones con las que me he obsesionado",
+            "genero":"Rock, Pop, Rap",
+            "autor":"Natalia"
+        },
+        {
+            "id":4,
+            "foto":"img/barco perdido.jpg",
+            "titulo":"Temazos en español",
+            "genero":"Rock, Pop, Rap",
+            "autor":""
+        },
+        {
+            "id":5,
+            "foto":"img/Portada desierto.jpg",
+            "titulo":"Cocina con Punk",
+            "genero":"Rock, Pop, Rap",
+            "autor":""
+        },
+        {
+            "id":6,
+            "foto":"img/luna rocas.jpg",
+            "titulo":"Technoish",
+            "genero":"",
+            "autor":""
+        },
+        {
+            "id":7,
+            "foto":"img/bola y desierto.jpg",
+            "titulo":"Motívate",
+            "genero":"",
+            "autor":""
+        },
+        {
+            "id":8,
+            "foto":"img/surf planeta.jpg",
+            "titulo":"Rock para bailar",
+            "genero":"",
+            "autor":""
+        },
+        {
+            "id":9,
+            "foto":"img/Baile a la luna.jpg",
+            "titulo":"A veces clásico",
+            "genero":"",
+            "autor":""
+        }
+    ]
+}
