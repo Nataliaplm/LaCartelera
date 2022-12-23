@@ -4,64 +4,64 @@
             "id":"1",
             "foto": "img/ballena.jpg",
             "titulo":"Car best hits",
-            "genero":"Rock, Pop, Rap",
+            "genero":"Rock, Rap, Funk",
             "autor":"Natalia"
         },
         {
             "id":2,
             "foto": "http://127.0.0.1:5500/img/alienssss.jpg",
             "titulo":"All rock",
-            "genero":"Rock, Pop, Rap",
+            "genero":"Rock, Metal, Punk",
             "autor":"Saav"
         },
         {
             "id":3,
             "foto":"img/1 Mundo cubos.jpg",
             "titulo":"Canciones con las que me he obsesionado",
-            "genero":"Rock, Pop, Rap",
-            "autor":"Natalia"
+            "genero":"Rock, ",
+            "autor":"Sierri"
         },
         {
             "id":4,
             "foto":"img/barco perdido.jpg",
             "titulo":"Temazos en español",
             "genero":"Rock, Pop, Rap",
-            "autor":""
+            "autor":"Alba"
         },
         {
             "id":5,
             "foto":"img/Portada desierto.jpg",
             "titulo":"Cocina con Punk",
-            "genero":"Rock, Pop, Rap",
-            "autor":""
+            "genero":"Punk, Rock, Soul",
+            "autor":"Paloma"
         },
         {
             "id":6,
             "foto":"img/luna rocas.jpg",
             "titulo":"Technoish",
-            "genero":"",
-            "autor":""
+            "genero":"Techno, Disco",
+            "autor":"JM"
         },
         {
             "id":7,
             "foto":"img/bola y desierto.jpg",
             "titulo":"Motívate",
-            "genero":"",
-            "autor":""
+            "genero":"Rock, Jazz, Salsa, Bossa Nova",
+            "autor":"Camila"
         },
         {
             "id":8,
             "foto":"img/surf planeta.jpg",
             "titulo":"Rock para bailar",
-            "genero":"",
-            "autor":""
+            "genero":"Rock",
+            "autor":"Carmen"
         },
         {
             "id":9,
             "foto":"img/Baile a la luna.jpg",
             "titulo":"A veces clásico",
-            "genero":"",
-            "autor":""
+            "genero":"Música Clásica",
+            "autor":"Sandra"
         }
     ]
 }
